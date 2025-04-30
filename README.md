@@ -40,3 +40,6 @@ bash
 Copy
 Edit
 pip install opencv-python
+
+
+Se aproprie da imagem e cole no caminho de máquina para a área de teste, ou faça a sua prória imagem no paint, assim como eu.
